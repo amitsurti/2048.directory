@@ -83,7 +83,18 @@
   image: images/1.png
   description: Divide until you reach the 1-tile!
 
+
 - name: 2048 Corgis
   url: http://cshao.me/Ventus-2048/
   image: images/2048-corgis.png
   description: 2048 with Corgis
+  
+  - name: 2048 Simpson
+  url: http://2048game.org/simpson/
+  image: img/simpsons-2048.gif
+  description: 2048 Simpsons Ediionn 
+  
+  
+  
+  
+  
